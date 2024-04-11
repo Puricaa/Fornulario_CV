@@ -1,0 +1,19 @@
+Proyecto, crea un archivo HTML que funcione como un pequeño CV, debe contener
+  - Nombre completo (H1)
+  - Foto
+  - Descripción
+  - Experiencia laboral
+  - Estudios
+  - Habilidades
+  - Un video que te guste
+  - Un formulario de contacto que contenga:
+    - Nombre
+    - Email
+    - Mensaje
+    - Botón de enviar
+  - Enlaces a tus redes sociales
+
+  Fecha de entrega: Jueves 11 de abril
+
+  Nota: Debes tener la estructura adecuada para una página web y debes usar
+  las etiquetas correctas para cada elemento (HTML semantico).
